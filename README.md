@@ -1,9 +1,12 @@
-## Welcome to the Huawei P8-Lite LineageOS Community Project
+## Welcome to the Huawei P8-Lite LineageOS Community Project  
+  
+**Community Project Admin:** MasterDoctor  
 
-**Community Project Leader:** MasterDoctor
-**Developers:**
-- @XePeleato
-- @Bartixxx32
-- @surdu_petru
-- @haky86
+**Developers:**   
+@XePeleato  
+@surdu_petru  
+@masterdoctor  
+@Bartixxx32  
+@haky86  
 
+**Huawei P8-Lite Community Portal:** https://android.clout-team.com/huawei/p8-lite/
