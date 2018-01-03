@@ -1,6 +1,4 @@
 ## Welcome to the Huawei P8-Lite LineageOS Community Project  
-  
-**Community Project Admin:** MasterDoctor  
 
 **Developers:**   
 @XePeleato  
